@@ -1,0 +1,18 @@
+{
+  "name": "Newtons Pay",
+  "short_name": "N Pe",
+  "description": "Interest-bearing, zero-fee high-yield secure ledger coin wallet.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#5f259f",
+  "theme_color": "#5f259f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./logo_launcher.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
